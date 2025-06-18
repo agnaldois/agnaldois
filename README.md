@@ -34,4 +34,7 @@ Apaixonado por integrar front-ends elegantes com back-ends eficientes.
 ---
 
 ## **🎯 Objetivos**  
-- **Aprofundar conhecimentos** em Arquitetura de Software. 
+- **Contribuir em projetos** robustos e escalaveis.
+- **Impactar significativamente** a vida dos usuários finais.
+- **Tornar acessível** a tecnologia a todos.
+- **Passar o conhecimento** a todos que o buscam.
