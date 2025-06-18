@@ -1,8 +1,7 @@
 # Agnaldo Souza
 
 ### **💻 Desenvolvedor Full-Stack**  
-Focado em criar soluções escaláveis com **JavaScript/TypeScript**, **Angular**, **React** e **Node.js**.  
-Apaixonado por integrar front-ends elegantes com back-ends eficientes.  
+**Desenvolvedor Full-Stack** de 23 anos com DNA criativo e mentalidade engenheira. Transformo requisitos complexos em sistemas elegantes onde cada linha de código serve a um propósito: criar experiências digitais fluidas, eficientes e visualmente impactantes. Especialista em bridges perfeitas entre front-end sofisticado (React/Next.js) e back-end performático (Node.js/FastAPI), com obsessão por detalhes que fazem a diferença - do microinteraction ao database schema. Mais do que stacks, entendo de soluções  
 
 ---
 
