@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Agnaldo! 
+# Agnaldo Souza
 
 ### **💻 Desenvolvedor Full-Stack**  
 Focado em criar soluções escaláveis com **JavaScript/TypeScript**, **Angular**, **React** e **Node.js**.  
